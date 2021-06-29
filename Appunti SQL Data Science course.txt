@@ -1,0 +1,5 @@
+VOCABULARY
+DBMS = Data Base Management System
+Relational Satabase Management System >>> sintax da utilizzare (es. SQLite, MySQL, Apache Open Office Base....)
+NULL >>> no data
+NULL VALUE >>> 0
